@@ -1,4 +1,4 @@
-# C++ Project Archive
+# C++
 
 Primarily older projects.
 
